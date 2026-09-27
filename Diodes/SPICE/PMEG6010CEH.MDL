@@ -1,0 +1,60 @@
+*
+******************************************
+*
+*PMEG6010CEH
+*
+*NXP Semiconductors
+*
+*1 A very low Vf MEGA Schottky barrier rectifiers
+*
+*
+*
+*
+*IFSM = 9A      @ tp = 8ms
+*VF   = 570mV   @ IF = 1A
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*Package pinning does not match Spice model pinning.
+*Package: SOD123F
+*
+*Package Pin 1: Cathode
+*Package Pin 2: Anode
+*
+*
+*
+*
+*Simulator: SPICE3
+*
+******************************************
+*
+.SUBCKT PMEG6010CEH 1 2
+*
+D1 1 2 PMEG6010CEH
+R1 1 2 1E+7
+*
+* The Resistor R1 does not reflect
+* a physical device. Instead it
+* improves modeling in the reverse
+* mode of operation.
+*
+.MODEL PMEG6010CEH D
++ IS = 3.962E-7
++ N = 0.9774
++ BV = 66
++ IBV = 1.1E-5
++ RS = 0.2033
++ CJO = 1.103E-10
++ VJ = 0.3756
++ M = 0.4916
++ EG = 0.69
++ XTI = 2
+.ENDS
+*

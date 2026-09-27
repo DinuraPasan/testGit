@@ -1,0 +1,29 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Altium\Altium_FileBased_Library\Inductors\Inductors.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=D:\Altium\Altium_FileBased_Library\Inductors\Inductors.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=Sheet1$
+[Table1]
+SchemaName=
+TableName=Sheet1$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Manufacturer Part Number0=191|Manufacturer0=110|Supplier 10=86|Supplier Part Number 10=240|Category0=97|Series0=74|Inductance0=92|Tolerance0=83|Current Rating (Amps)0=162|Current - Saturation (Isat)0=183|Shielding0=80|DC Resistance (DCR)0=150|Q @ Freq0=94|Frequency - Self Resonant0=184|Operating Temperature0=169|Core Material0=155|Type0=155|Package / Case0=117|Comment0=86|Description0=529|Ratings0=76|Eco Plan0=99|Datasheet0=566
+[FieldMap1]
+Options=FieldName=Sheet1$.Comment|TableNameOnly=Sheet1$|FieldNameOnly=Comment|FieldType=0|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

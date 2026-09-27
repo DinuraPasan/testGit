@@ -1,0 +1,82 @@
+WARNING (line   22) - IBIS files should not contain tab characters.
+NOTE (line  201) - Pulldown Minimum data is non-monotonic
+NOTE (line  203) - Pulldown Typical data is non-monotonic
+NOTE (line  203) - Pulldown Maximum data is non-monotonic
+NOTE (line  450) - Pullup Minimum data is non-monotonic
+NOTE (line  461) - Pullup Typical data is non-monotonic
+NOTE (line  465) - Pullup Maximum data is non-monotonic
+NOTE (line 1102) - Pulldown Minimum data is non-monotonic
+NOTE (line 1104) - Pulldown Typical data is non-monotonic
+NOTE (line 1104) - Pulldown Maximum data is non-monotonic
+NOTE (line 1351) - Pullup Minimum data is non-monotonic
+NOTE (line 1362) - Pullup Typical data is non-monotonic
+NOTE (line 1366) - Pullup Maximum data is non-monotonic
+NOTE (line 2039) - Pulldown Maximum data is non-monotonic
+NOTE (line 2041) - Pulldown Typical data is non-monotonic
+NOTE (line 2045) - Pulldown Minimum data is non-monotonic
+NOTE (line 2245) - Pullup Minimum data is non-monotonic
+NOTE (line 2257) - Pullup Typical data is non-monotonic
+NOTE (line 2266) - Pullup Maximum data is non-monotonic
+NOTE (line 2714) - Pulldown Maximum data is non-monotonic
+NOTE (line 2716) - Pulldown Typical data is non-monotonic
+NOTE (line 2720) - Pulldown Minimum data is non-monotonic
+NOTE (line 2928) - Pullup Minimum data is non-monotonic
+NOTE (line 2939) - Pullup Typical data is non-monotonic
+NOTE (line 2948) - Pullup Maximum data is non-monotonic
+NOTE (line 3358) - Pulldown Minimum data is non-monotonic
+NOTE (line 3359) - Pulldown Typical data is non-monotonic
+NOTE (line 3360) - Pulldown Maximum data is non-monotonic
+NOTE (line 3617) - Pullup Minimum data is non-monotonic
+NOTE (line 3626) - Pullup Typical data is non-monotonic
+NOTE (line 3634) - Pullup Maximum data is non-monotonic
+NOTE (line 4260) - Pulldown Minimum data is non-monotonic
+NOTE (line 4261) - Pulldown Typical data is non-monotonic
+NOTE (line 4262) - Pulldown Maximum data is non-monotonic
+NOTE (line 4519) - Pullup Minimum data is non-monotonic
+NOTE (line 4528) - Pullup Typical data is non-monotonic
+NOTE (line 4536) - Pullup Maximum data is non-monotonic
+NOTE (line 5284) - Pulldown Typical data is non-monotonic
+NOTE (line 5284) - Pulldown Maximum data is non-monotonic
+NOTE (line 5285) - Pulldown Minimum data is non-monotonic
+NOTE (line 5375) - Pullup Maximum data is non-monotonic
+NOTE (line 5377) - Pullup Typical data is non-monotonic
+NOTE (line 5383) - Pullup Minimum data is non-monotonic
+NOTE (line 6120) - Pulldown Typical data is non-monotonic
+NOTE (line 6120) - Pulldown Maximum data is non-monotonic
+NOTE (line 6121) - Pulldown Minimum data is non-monotonic
+NOTE (line 6211) - Pullup Maximum data is non-monotonic
+NOTE (line 6213) - Pullup Typical data is non-monotonic
+NOTE (line 6219) - Pullup Minimum data is non-monotonic
+NOTE (line 6958) - Pulldown Typical data is non-monotonic
+NOTE (line 6958) - Pulldown Maximum data is non-monotonic
+NOTE (line 6959) - Pulldown Minimum data is non-monotonic
+NOTE (line 7049) - Pullup Maximum data is non-monotonic
+NOTE (line 7051) - Pullup Typical data is non-monotonic
+NOTE (line 7057) - Pullup Minimum data is non-monotonic
+NOTE (line 7796) - Pulldown Typical data is non-monotonic
+NOTE (line 7796) - Pulldown Maximum data is non-monotonic
+NOTE (line 7797) - Pulldown Minimum data is non-monotonic
+NOTE (line 7887) - Pullup Maximum data is non-monotonic
+NOTE (line 7889) - Pullup Typical data is non-monotonic
+NOTE (line 7895) - Pullup Minimum data is non-monotonic
+NOTE (line 8633) - Pulldown Typical data is non-monotonic
+NOTE (line 8633) - Pulldown Maximum data is non-monotonic
+NOTE (line 8634) - Pulldown Minimum data is non-monotonic
+NOTE (line 8724) - Pullup Maximum data is non-monotonic
+NOTE (line 8726) - Pullup Typical data is non-monotonic
+NOTE (line 8732) - Pullup Minimum data is non-monotonic
+NOTE (line 9470) - Pulldown Typical data is non-monotonic
+NOTE (line 9470) - Pulldown Maximum data is non-monotonic
+NOTE (line 9471) - Pulldown Minimum data is non-monotonic
+NOTE (line 9561) - Pullup Maximum data is non-monotonic
+NOTE (line 9563) - Pullup Typical data is non-monotonic
+NOTE (line 9569) - Pullup Minimum data is non-monotonic
+NOTE - Combined Pulldown for Model: FZP18_PD_PI_10P_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: FZP18_PD_PI_5P_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: FZP18_PU_PI_10P_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: FZP18_PU_PI_5P_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: HYPBFZP18_PI_10P_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: HYPBFZP18_PI_5P_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: usb2_LS_RC Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: usb2_LS_R Minimum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model Selector 'BC3340DSHYPBFZP18' is not associated with any Pin or Series Pin Mapping

@@ -1,0 +1,6 @@
+* text=auto
+
+*.ibs text eol=lf
+*.SchLib binary
+*.PcbLib binary
+*.IntLib binary

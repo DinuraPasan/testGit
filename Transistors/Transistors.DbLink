@@ -1,0 +1,29 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Altium\Altium_FileBased_Library\Transistors\Transistors.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=D:\Altium\Altium_FileBased_Library\Transistors\Transistors.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=Sheet1$
+[Table1]
+SchemaName=
+TableName=Sheet1$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Manufacturer Part Number0=191|Manufacturer0=121|Supplier 10=86|Supplier Part Number 10=169|Category0=203|Series0=89|Channel Polarity0=125|Gate Level0=89|Configuration0=109|Drain to Source Voltage (Vdss)0=212|Gate-Source Voltage(Vgss)0=191|Drain Current - Continuous (Id)0=218|Drain Current - Pulsed (Id)0=187|Rds On (Max) @ Id, Vgs0=175|Vgs(th) (Max) @ Id0=140|Gate Charge (Qg) (Max) @ Vgs0=215|Input Capacitance (Ciss) (Max) @ Vds0=253|Power Dissipation (Max)0=172|Operating Temperature0=169|Comment0=98|Description0=438|Ratings0=70|Eco Plan0=76|Datasheet0=416
+[FieldMap1]
+Options=FieldName=Sheet1$.Manufacturer Part Number|TableNameOnly=Sheet1$|FieldNameOnly=Manufacturer Part Number|FieldType=0|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

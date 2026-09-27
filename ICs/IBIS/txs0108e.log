@@ -1,0 +1,38 @@
+NOTE (line 4933) - Pulldown Minimum data is non-monotonic
+NOTE (line 4936) - Pulldown Typical data is non-monotonic
+NOTE (line 4940) - Pulldown Maximum data is non-monotonic
+NOTE (line 5036) - Pullup Minimum data is non-monotonic
+NOTE (line 5039) - Pullup Typical data is non-monotonic
+NOTE (line 5042) - Pullup Maximum data is non-monotonic
+NOTE (line 5841) - Pulldown Maximum data is non-monotonic
+NOTE (line 5843) - Pulldown Typical data is non-monotonic
+NOTE (line 5846) - Pulldown Minimum data is non-monotonic
+NOTE (line 5932) - Pullup Minimum data is non-monotonic
+NOTE (line 5934) - Pullup Typical data is non-monotonic
+NOTE (line 5936) - Pullup Maximum data is non-monotonic
+NOTE (line 10387) - Pulldown Minimum data is non-monotonic
+NOTE (line 10489) - Pullup Minimum data is non-monotonic
+NOTE (line 11311) - Pulldown Typical data is non-monotonic
+NOTE (line 11314) - Pulldown Minimum data is non-monotonic
+NOTE (line 11408) - Pullup Minimum data is non-monotonic
+NOTE (line 11410) - Pullup Typical data is non-monotonic
+NOTE (line 11412) - Pullup Maximum data is non-monotonic
+NOTE - Combined Pulldown for Model: TXS0108_IOA_OS_12A Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOA_OS_12A Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TXS0108_IOA_OS_12A Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOA_OS_12A Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOA_OS_12A Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TXS0108_IOA_OS_15A Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOA_OS_15A Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TXS0108_IOB_OS_12A Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOB_OS_12A Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TXS0108_IOB_OS_12A Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOB_OS_12A Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TXS0108_IOB_OS_12A Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOB_OS_12A Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TXS0108_IOB_OS_15A Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOB_OS_15A Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TXS0108_IOB_OS_15A Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOB_OS_15A Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TXS0108_IOB_OS_15A Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: TXS0108_IOB_OS_15A Maximum data is non-monotonic based on piece-wise linear interpolation

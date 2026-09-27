@@ -1,0 +1,29 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Altium\Altium_FileBased_Library\Diodes\Diodes.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=D:\Altium\Altium_FileBased_Library\Diodes\Diodes.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=Sheet1$
+[Table1]
+SchemaName=
+TableName=Sheet1$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Manufacturer Part Number0=191|Manufacturer0=115|Supplier 10=86|Supplier Part Number 10=169|Category0=103|Series0=60|Forward Current0=126|Forward Voltage0=126|Reverse Current0=123|Reverse Voltage0=123|Diode Capacitance0=138|Operating Temperature - Junction0=234|Comment0=106|Description0=223|Ratings0=70|Eco Plan0=76|Datasheet0=443
+[FieldMap1]
+Options=FieldName=Sheet1$.Manufacturer Part Number|TableNameOnly=Sheet1$|FieldNameOnly=Manufacturer Part Number|FieldType=0|ParameterName=Manufacturer Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

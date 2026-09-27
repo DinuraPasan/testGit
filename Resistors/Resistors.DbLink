@@ -1,0 +1,29 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Altium\Altium_FileBased_Library\Resistors\Resistors.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=D:\Altium\Altium_FileBased_Library\Resistors\Resistors.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=Sheet1$
+[Table1]
+SchemaName=
+TableName=Sheet1$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Comment0=86|Manufacturer0=158|Manufacturer Part Number0=191|Supplier 10=86|Supplier Part Number 10=201|Category0=182|Series0=107|Resistance0=88|Tolerance0=83|Power (Watts)0=111|Temperature Coefficient0=171|Operating Temperature0=169|Maximum Working Voltage0=193|Composition0=103|Package / Case0=129|Description0=750|Ratings0=76|Eco Plan0=99|Datasheet0=333
+[FieldMap1]
+Options=FieldName=Sheet1$.Comment|TableNameOnly=Sheet1$|FieldNameOnly=Comment|FieldType=0|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
